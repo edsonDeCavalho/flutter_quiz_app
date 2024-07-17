@@ -1,5 +1,7 @@
 # Flutter Quiz App
-![alt text](./img/quizLogo.jpeg)
+
+![alt text](./img/1.png)![alt text](./img/2.png)![alt text](./img/4.png)![alt text](./img/5.png)![alt text](./img/3.png)<br>
+<br></br>
 
 ## 🔨 Construction
 
@@ -17,8 +19,7 @@
 * Verfication du dernier télechargement.
 * Persistance avec SharedPreferences.
 
-![alt text](./img/1.png)![alt text](./img/2.png)![alt text](./img/4.png)![alt text](./img/5.png)![alt text](./img/3.png)<br>
-<br></br>
+
 
 ## Getting Started
 To get a local copy of the project up and running, follow these simple steps.
